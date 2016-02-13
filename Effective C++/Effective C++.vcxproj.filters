@@ -24,5 +24,8 @@
     <ClCompile Include="Clause 2\MACRODefine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Friend c++\friendTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
